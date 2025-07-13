@@ -13,5 +13,13 @@ It uses Python’s `random` and `string` modules.
 4. Get your generated password printed on the screen
 
 ------------------------------------------------------------
+# Edge Cases Handled for proper generation of secure password and no error during run time s :
+
+1. Letters like `abc` are not accepted.  
+2. Symbols like `@#` are invalid input.  
+3. Float values like `4.5` are not allowed.  
+4. Negative or zero length is rejected.  
+5. Proper messages shown for all invalid inputs.
+
 
 GUI version will be added later if needed for better user experience.
