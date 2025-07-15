@@ -1,4 +1,4 @@
-#     SECOND TASK ------------>>>>>       CALCULATOR
+#     SECOND TASK ------------>>>>>     SIMPLE  CALCULATOR
 
 This task involves designing a simple calculator using Python.
 
@@ -13,5 +13,10 @@ This task involves designing a simple calculator using Python.
 - Basic operations: `+`, `-`, `*`, `/`
 - Input validation for non-numeric entries
 - Handles division by zero
+- Error handling using try-except
+- If user has input the string like "abc " etc. it will give Error !!
+
+# At last OUTPUT will be displayed :-
+
 
 
