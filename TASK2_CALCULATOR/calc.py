@@ -35,7 +35,7 @@ elif choice == '4':
         else:
             result = num1 / num2
             print(f"Result: {num1} / {num2} = {result}")
-else:
+else: 
         print("Invalid choice. Please select only from 1, 2, 3, or 4.")
 
 # YOUR OUTPUT WILL BE DISPLAYED ON THE SCREEN :-
